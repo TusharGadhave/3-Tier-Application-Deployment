@@ -17,6 +17,3 @@ The three-tier architecture includes:
 - AWS EC2: Cloud virtual machines used for hosting Docker containers.
 - Other technologies specific to your deployment setup (e.g., NGINX, MySQL, etc.).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
